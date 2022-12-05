@@ -1,7 +1,6 @@
 # MaskMap
 Native Android Application written in Kotlin.  
 Support Traditional Chinese, English and Japanese.  
-
 <br>
 ![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_mask.png) 
 <br>
