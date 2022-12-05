@@ -4,11 +4,11 @@ Support Traditional Chinese, English and Japanese.
 <br>
 ![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_mask.png) 
 <br>
-![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/pictures/001.jpg)
+![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/pictures/001.png)
 <br>
-![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/pictures/002.jpg)
+![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/pictures/002.png)
 <br>
-![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/pictures/003.jpg)
+![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/pictures/003.png)
 <br>
 
 # Main libraries used
