@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">口罩地圖</string>
+    <string name="alert_title_error">噢不！有BUG！</string>
+    <string name="alert_title_ok">確定</string>
+    <string name="alert_title_cancel">取消</string>
+    <string name="location_permission">此應用程式需要位置權限才能正常使用</string>
+    <string name="location_permission_denied">位置權限已被關閉，功能將會無法正常使用</string>
+    <string name="gps_permission">此應用程式需要GPS定位才能正常使用</string>
+    <string name="gps_permission_denied">GPS已被關閉，功能將會無法正常使用</string>
+    <string name="gps_permission_accepted">已獲取到位置權限且開啟GPS</string>
+    <string name="current_location">現在位置</string>
+
+    <string name="maskData_default">Loading...</string>
+    <string name="storeName_default">藥局名稱</string>
+    <string name="adultMask_default">成人口罩</string>
+    <string name="childMask_default">小孩口罩</string>
+    <string name="maskQuantity_default">口罩數量</string>
+
+    <string name="spinner_county_default">請選擇縣市</string>
+    <string name="spinner_town_default">請選擇鄉鎮</string>
+
+<!--    <string name="spinner_county_keelungCity">基隆市</string>-->
+<!--    <string name="spinner_county_taipeiCity">臺北市</string>-->
+<!--    <string name="spinner_county_newtaipeiCity">新北市</string>-->
+<!--    <string name="spinner_county_taoyuanCity">桃園市</string>-->
+<!--    <string name="spinner_county_hsinchuCity">新竹市</string>-->
+<!--    <string name="spinner_county_hsinchuCounty">新竹縣</string>-->
+<!--    <string name="spinner_county_taoyuan">桃園市</string>-->
+
+</resources>

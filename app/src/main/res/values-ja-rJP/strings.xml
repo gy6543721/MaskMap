@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">マスク地図</string>
+    <string name="alert_title_error">エラー</string>
+    <string name="alert_title_ok">はい</string>
+    <string name="alert_title_cancel">キャンセル</string>
+    <string name="location_permission">正常動作のため、位置座標を確認する権限が必要</string>
+    <string name="location_permission_denied">位置座標の確認権限がないため、正常に動作できません</string>
+    <string name="gps_permission">正常動作のため、GPS権限が必要</string>
+    <string name="gps_permission_denied">GPSが正常に動作できません</string>
+    <string name="gps_permission_accepted">GPS権限付与済み、位置座標を確認中</string>
+    <string name="current_location">位置座標</string>
+
+    <string name="maskData_default">読み込み中...</string>
+    <string name="storeName_default">ストア</string>
+    <string name="adultMask_default">大人マスク</string>
+    <string name="childMask_default">子供マスク</string>
+    <string name="maskQuantity_default">在庫数量</string>
+
+    <string name="spinner_county_default">県市を選んでください</string>
+    <string name="spinner_town_default">区町村を選んでください</string>
+
+</resources>

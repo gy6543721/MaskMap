@@ -4,12 +4,14 @@ build/
 
 # Local configuration file (sdk path, etc)
 local.properties
+.DS_Store
 
 # Log/OS Files
 *.log
 
 # Android Studio generated files and folders
 captures/
+/captures
 .externalNativeBuild/
 .cxx/
 *.apk
@@ -28,3 +30,4 @@ google-services.json
 
 # Android Profiling
 *.hprof
+

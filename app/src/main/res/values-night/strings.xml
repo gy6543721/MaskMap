@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MaskMap</string>
+    <string name="alert_title_error">Error</string>
+    <string name="alert_title_ok">OK</string>
+    <string name="alert_title_cancel">Cancel</string>
+    <string name="location_permission">Location permission is needed to run this application</string>
+    <string name="location_permission_denied">Location permission is denied, app features will be limited</string>
+    <string name="gps_permission">GPS is needed to run this application</string>
+    <string name="gps_permission_denied">GPS is not working, application features will be limited</string>
+    <string name="gps_permission_accepted">GPS is working, checking your location now</string>
+    <string name="current_location">Current Location</string>
+
+    <string name="maskData_default">Loading...</string>
+    <string name="storeName_default">Store</string>
+    <string name="adultMask_default">Adult Mask</string>
+    <string name="childMask_default">Child Mask</string>
+    <string name="maskQuantity_default">Amount of Mask</string>
+
+    <string name="spinner_county_default">Please Select County</string>
+    <string name="spinner_town_default">Please Select Town</string>
+</resources>
