@@ -1,13 +1,13 @@
 # MaskMap
-![alt text](https://github.com/gy6543721/MaskMap/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_mask.png?raw=true) 
+![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_mask.png) 
 <br>
 Native Android Application written in Kotlin.
 <br>
-![alt text](https://github.com/gy6543721/MaskMap/tree/main/pictures/001.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/pictures/001.jpg)
 <br>
-![alt text](https://github.com/gy6543721/MaskMap/tree/main/pictures/002.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/pictures/002.jpg)
 <br>
-![alt text](https://github.com/gy6543721/MaskMap/tree/main/pictures/003.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/pictures/003.jpg)
 <br>
 
 # Main libraries used
