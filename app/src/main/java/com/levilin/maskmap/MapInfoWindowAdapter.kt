@@ -11,8 +11,6 @@ import com.levilin.maskmap.databinding.MapInfoWindowBinding
 
 class MapInfoWindowAdapter(context: Context) : GoogleMap.InfoWindowAdapter {
 
-//    private lateinit var binding: MapInfoWindowBinding
-
     private var mWindow: View = (context as Activity).layoutInflater.inflate(R.layout.map_info_window, null)
 
     private fun render(marker: Marker, view: View) {

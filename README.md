@@ -4,6 +4,7 @@ Support Traditional Chinese, English and Japanese.
 <br>
 ![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_mask.png) 
 <br>
+<br>
 ![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/pictures/001.png)
 <br>
 ![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/pictures/002.png)
@@ -16,5 +17,6 @@ Support Traditional Chinese, English and Japanese.
 * Data Binding
 * OkHttp3
 * GMS (Google Map Service)
+* Gson
 * Junit
 * Android Architecture component Jetpack
