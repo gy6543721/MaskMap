@@ -12,7 +12,7 @@ Support Traditional Chinese, English and Japanese.
 ![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/pictures/003.png)
 <br>
 
-# Main libraries used
+# Main Libraries Used
 * View Binding
 * Data Binding
 * OkHttp3
