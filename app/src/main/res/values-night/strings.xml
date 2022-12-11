@@ -19,4 +19,6 @@
 
     <string name="spinner_county_default">Please Select County</string>
     <string name="spinner_town_default">Please Select Town</string>
+    <string name="phone_format">00-00000000</string>
+    <string name="text_address_default">Address Not Found</string>
 </resources>

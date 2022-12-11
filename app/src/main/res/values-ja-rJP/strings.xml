@@ -18,5 +18,7 @@
 
     <string name="spinner_county_default">県市を選んでください</string>
     <string name="spinner_town_default">区町村を選んでください</string>
+    <string name="phone_format">00-00000000</string>
+    <string name="text_address_default">住所情報なし</string>
 
 </resources>

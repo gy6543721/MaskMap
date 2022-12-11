@@ -18,6 +18,8 @@
 
     <string name="spinner_county_default">請選擇縣市</string>
     <string name="spinner_town_default">請選擇鄉鎮</string>
+    <string name="phone_format">00-00000000</string>
+    <string name="text_address_default">無地址資訊</string>
 
 <!--    <string name="spinner_county_keelungCity">基隆市</string>-->
 <!--    <string name="spinner_county_taipeiCity">臺北市</string>-->
