@@ -5,12 +5,19 @@ Support Traditional Chinese, English and Japanese.
 <br>
 ![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_mask_foreground.png) 
 <br>
-<br>
-![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/pictures/001.png)
-<br>
-![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/pictures/002.png)
-<br>
-![alt text](https://raw.githubusercontent.com/gy6543721/MaskMap/main/pictures/003.png)
+<table>
+	<tr>
+		<td>
+			<img src="https://raw.githubusercontent.com/gy6543721/MaskMap/main/pictures/001.png" width="240" height="500"/>
+		</td>
+		<td>
+			<img src="https://raw.githubusercontent.com/gy6543721/MaskMap/main/pictures/002.png" width="240" height="500"/>
+		</td>
+		<td>
+			<img src="https://raw.githubusercontent.com/gy6543721/MaskMap/main/pictures/003.png" width="240" height="500"/>
+		</td>
+	</tr>
+<table>
 <br>
 
 # Main Libraries Used
