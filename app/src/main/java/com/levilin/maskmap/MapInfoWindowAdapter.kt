@@ -1,17 +1,14 @@
 package com.levilin.maskmap
 
-import android.app.Activity
 import android.content.Context
 import android.view.View
 import android.widget.TextView
 import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.model.Marker
-import com.levilin.maskmap.databinding.ActivityMapBinding
-import com.levilin.maskmap.databinding.MapInfoWindowBinding
 
 class MapInfoWindowAdapter(context: Context) : GoogleMap.InfoWindowAdapter {
 
-    private var mWindow: View = (context as Activity).layoutInflater.inflate(R.layout.map_info_window, null)
+    private var mWindow: View = View.inflate(context, R.layout.map_info_window, null)
 
     private fun render(marker: Marker, view: View) {
 
@@ -19,11 +16,11 @@ class MapInfoWindowAdapter(context: Context) : GoogleMap.InfoWindowAdapter {
         val adultMaskQuantity = view.findViewById<TextView>(R.id.textAdultMaskQuantity)
         val childMaskQuantity = view.findViewById<TextView>(R.id.textChildMaskQuantity)
 
-        val mask = marker.snippet.toString().split(",")
+        val mask = marker.snippet?.toString()?.split(",")
 
         storeName.text = marker.title
-        adultMaskQuantity.text = mask[0]
-        childMaskQuantity.text = mask[1]
+        adultMaskQuantity.text = mask?.get(0)
+        childMaskQuantity.text = mask?.get(1)
 
     }
 
