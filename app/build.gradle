@@ -32,12 +32,6 @@ android {
         jvmTarget = '1.8'
     }
 
-    //Enable DataBinding and ViewBinding
-
-//    before Android Studio 3.6
-    dataBinding {
-        enabled = true
-    }
     viewBinding {
         enabled = true
     }
